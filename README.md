@@ -6,13 +6,10 @@
 * 首页1
  ![首页](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.28.23.png)
  
-                用到UITableView和UICollectionView的嵌套，还有个自定义View
-
+         
 * 关注1
-
 ![关注](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.39.44.png)
-![关注](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.39.28.png)
-
+              
               这个界面没什么数据好来试试，所以就简单使用UISearch控件简单演示一下
 
 
