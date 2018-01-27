@@ -26,7 +26,7 @@
 
 * 我 界面
 
-![我.gif](http://upload-images.jianshu.io/upload_images/651869-83fcc777f521943e.gif?imageMogr2/auto-orient/strip)
+![我.gif](https://github.com/zyfname/z-/blob/master/我.tiff)
 #### 学习到的知识点
 *    xib和纯代码相结合的适配布局，xib：AutoLayout 
 * UITableView的综合使用 自定义cell
