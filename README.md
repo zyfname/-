@@ -11,7 +11,7 @@
 
 * 关注
 
-![搜索.gif](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.26.58.png)
+![搜索.gif](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.39.44.png)
 
               这个界面没什么数据好来试试，所以就简单使用UISearch控件简单演示一下
 
