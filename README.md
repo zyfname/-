@@ -6,7 +6,6 @@
 #### 学习到的知识点
 * 首页1
  ![首页](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.28.23.png)
- ![首页2](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.29.46的副本.png）
   用到UITableView和UICollectionView的嵌套，还有个自定义View
 
 * 关注1
