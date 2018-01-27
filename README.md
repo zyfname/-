@@ -5,7 +5,7 @@
 
 
 * 首页
-
+ ![首页](https://github.com/ zyfname / z- / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
 ![首页.gif](http://upload-images.jianshu.io/upload_images/651869-ff9cd7d59df78af2.gif?imageMogr2/auto-orient/strip)
 
                用到UITableView和UICollectionView的嵌套，还有个自定义View
