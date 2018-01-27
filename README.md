@@ -5,7 +5,8 @@
 
 * 首页1
  ![首页](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.28.23.png)
-  用到UITableView和UICollectionView的嵌套，还有个自定义View
+ 
+                用到UITableView和UICollectionView的嵌套，还有个自定义View
 
 * 关注1
 
@@ -16,15 +17,17 @@
 
 
 
-* 播放详情界面1
+     * 播放详情界面1
 ![播放详情界面](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午11.42.44.png)
+
+      * 播放详情界面2
 ![播放详情界面](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午11.42.49.png)
 
 
-* 登录界面
+     * 登录界面
 ![登录.gif](https://github.com/zyfname/z-/blob/master/我.tiff)
 
-* 我 界面
+     * 我 界面
 ![我.gif](https://github.com/zyfname/z-/blob/master/我.tiff)
 #### 学习到的知识点
 *    xib和纯代码相结合的适配布局，xib：AutoLayout 
