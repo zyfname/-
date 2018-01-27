@@ -5,7 +5,7 @@
 
 
 * 首页
- ![首页](https://github.com/ zyfname /开眼仿写 / raw / Simulator Screen Shot 2018年1月27日 上午10.39.28.png )
+ ![首页](https://github.com/zyfname/z-/Simulator Screen Shot 2018年1月27日 上午10.39.28.png )
 ![首页.gif](https://user.qzone.qq.com/3486420790)
 
                用到UITableView和UICollectionView的嵌套，还有个自定义View
