@@ -23,7 +23,7 @@
 
 
      * 登录界面
-![登录.gif](https://github.com/zyfname/z-/blob/master/我.tiff)
+![登录.gif](https://github.com/zyfname/z-/blob/master/登录.tiff)
 
      * 我 界面
 ![我.gif](https://github.com/zyfname/z-/blob/master/我.tiff)
@@ -31,6 +31,7 @@
     #### 学习到的知识点
 *    xib和纯代码相结合的适配布局，xib：AutoLayout 
 * UITableView的综合使用 自定义cell
+* json解析
 * UICollectionView 综合使用，视频布局： 网格布局和列表布局
 * 自定义视图
 * 控件封装
