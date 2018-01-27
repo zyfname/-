@@ -17,10 +17,11 @@
 
 
 
-     * 播放详情界面1
+ * 播放详情界面1
 ![播放详情界面](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午11.42.44.png)
 
-      * 播放详情界面2
+           * 播放详情界面2
+           
 ![播放详情界面](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午11.42.49.png)
 
 
