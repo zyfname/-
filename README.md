@@ -12,7 +12,7 @@
 
 * 关注
 
-![搜索.gif](http://upload-images.jianshu.io/upload_images/651869-209aa6f57cd17bb5.gif?imageMogr2/auto-orient/strip)
+![搜索.gif](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.26.58.png)
 
               这个界面没什么数据好来试试，所以就简单使用UISearch控件简单演示一下
 
