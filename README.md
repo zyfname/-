@@ -3,7 +3,6 @@
 ***
 > 项目还是很有进步空间的
 
-#### 学习到的知识点
 * 首页1
  ![首页](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.28.23.png)
   用到UITableView和UICollectionView的嵌套，还有个自定义View
@@ -20,7 +19,6 @@
 * 播放详情界面1
 ![播放详情界面](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午11.42.44.png)
 ![播放详情界面](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午11.42.49.png)
-*登录页
 
 
 * 登录界面
