@@ -11,7 +11,7 @@
 
 * 关注
 
-![搜索.gif](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.39.44.png)
+![关注](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午10.39.44.png)
 
               这个界面没什么数据好来试试，所以就简单使用UISearch控件简单演示一下
 
@@ -20,11 +20,8 @@
 * 播放详情界面
 
 
-![商品详细界面2.gif](http://upload-images.jianshu.io/upload_images/651869-7105ba22eb6c21e3.gif?imageMogr2/auto-orient/strip)
+![播放详情界面](https://github.com/zyfname/z-/blob/master/Simulator%20Screen%20Shot%202018年1月27日%20上午11.42.49.png)
 *登录页
-
-
-* 专题 (现在很流行的点击动画)
 
 
 * 我 界面
